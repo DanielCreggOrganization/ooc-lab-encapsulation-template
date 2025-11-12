@@ -4,7 +4,6 @@
 1. [Data Hiding](#1-data-hiding)
 2. [Getters and Setters](#2-getters-and-setters)
 3. [Data Validation](#3-data-validation)
-4. [Constructors and Initialization](#4-constructors-and-initialization)
 
 ## Lab Setup
 1. Create a package called `ie.atu.encapsulation`
