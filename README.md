@@ -167,11 +167,11 @@ public class Student {
 graph TD
     A[Input Data] -->|Validate| B{Valid?}
     B -->|Yes| C[Update Field]
-    B -->|No| D[Throw Exception]
+    B -->|No| D[Print Error]
     
     E[Constructor/Setter] -->|Uses| F[Validation Helper]
     F -->|Valid| G[Update Field]
-    F -->|Invalid| H[Throw Exception]
+    F -->|Invalid| H[Print Error]
 ```
 
 ### DIY Exercise: Grade Book
