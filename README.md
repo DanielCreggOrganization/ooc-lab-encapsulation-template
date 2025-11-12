@@ -128,9 +128,9 @@ graph LR
 **Expected Observation:**
 When you type `student.` in VS Code:
 - **With public fields**: You see `name`, `studentId`, `gpa`, constructor, etc.
-- **With private fields**:  `name`, `studentId` abd`gpa` will have dissapeared from the list and are inaccessible 
+- **With private fields**:  `name`, `studentId` and `gpa` will have dissapeared from the list and are inaccessible 
 
-The private fields have "disappeared" from outside access!
+The private fields have "disappeared" from outside access! Later we will show how to create public **getter** and **setter** methods that will provide access to these private instance varibales.  
 
 ### Key Takeaway
 The disappearance of private members from the autocomplete list is not just a convenience feature - it's the IDE enforcing Java's encapsulation rules. If you can't see it in the list, you can't access it directly. This is encapsulation protecting your data.
