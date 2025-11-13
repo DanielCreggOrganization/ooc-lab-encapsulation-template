@@ -434,6 +434,7 @@ This lab covered the essential concepts of encapsulation in Java:
 By mastering these concepts, you can write more robust, maintainable, and secure Java applications. Encapsulation is not just a good practice - it's essential for professional software development.
 
 ## Further Reading
+- [Ask ChatGPT about Java Encapsulation](https://chatgpt.com/?q=Give+me+a+general+overview+of+Java+encapsulation+including+what+it+is%2C+why+it%27s+important%2C+and+key+concepts+like+access+modifiers%2C+getters%2Fsetters%2C+and+data+validation)
 - Java Documentation: [Access Control](https://docs.oracle.com/javase/tutorial/java/javaOO/accesscontrol.html)
 - Book: Effective Java by Joshua Bloch (Chapter 4: Classes and Interfaces)
 - Book: Clean Code by Robert C. Martin (Chapter 6: Objects and Data Structures)
